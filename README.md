@@ -23,27 +23,27 @@ Add the following lines inside your `~/.zshrc`, `~/.bashrc` or shell config file
 
 ```sh
 export FZF_DEFAULT_OPTS=" \
---color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
+--color=bg+:#031B26,bg:#06101e,spinner:#fd5e3a,hl:#e2d9c5 \
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
---color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
+--color=marker:#fd5e3a,fg+:#66def9,prompt:#35b5ff,hl+:#fd5e3a"
 ```
 
 <img src="https://img.shields.io/badge/fish-darkgreen.svg?style=for-the-badge&logo=fish-shell" alt="fish" />
 
 ```sh
 set -Ux FZF_DEFAULT_OPTS "\
---color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
+--color=bg+:#031B26,bg:#06101e,spinner:#fd5e3a,hl:#e2d9c5 \
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
---color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
+--color=marker:#fd5e3a,fg+:#66def9,prompt:#35b5ff,hl+:#fd5e3a"
 ```
 
 <img src="https://img.shields.io/badge/powershell-darkblue.svg?style=for-the-badge&logo=powershell" alt="powershell" />
 
 ```powershell
 $ENV:FZF_DEFAULT_OPTS=@"
---color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5
+--color=bg+:#031B26,bg:#06101e,spinner:#fd5e3a,hl:#e2d9c5
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61
---color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5
+--color=marker:#fd5e3a,fg+:#66def9,prompt:#35b5ff,hl+:#fd5e3a
 "@
 ```
 
