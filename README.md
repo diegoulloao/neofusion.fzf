@@ -1,40 +1,43 @@
 <div align="center">
     <h1>
-        <img src="https://i.ibb.co/K7GbmDr/logo.jpg" width="110" />
+        <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
         <br />neofusion.fzf
     </h1>
 </div>
 
 <p align="center"> 
-    <a href="#"><img alt="Made with Yaml" src="https://img.shields.io/badge/Made%20with%20bash-blueviolet.svg?style=for-the-badge&logo=gnu-bash" style="vertical-align:center" /></a>
+    <a href="#"><img alt="Made with Lua" src="https://img.shields.io/badge/SHELL-9cf.svg?style=for-the-badge&logo=gnome-terminal&logoColor=black" style="vertical-align:center" /></a>
 </p>
 
 <p align="center">
   Neofusion theme for <a href="https://github.com/junegunn/fzf" target="_blank">fzf</a> 👾
 </p>
 
-<img src="https://i.ibb.co/r3y5hNb/neofusion-bat-1.png" alt="neofusion" />
+<img src="https://i.ibb.co/wL2rwMB/neofusion-fzf.png" alt="neofusion" />
 
 # Installation 📦
 
-**Bash/Zsh**:
+Add the following lines inside your `~/.zshrc`, `~/.bashrc` or shell config file:
 
-````sh
+<img src="https://img.shields.io/badge/zsh/bash-black.svg?style=for-the-badge&logo=zsh" alt="zsh-bash" />
+
+```sh
 export FZF_DEFAULT_OPTS=" \
 --color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
 --color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
+```
 
-**Fish**:
+<img src="https://img.shields.io/badge/fish-darkgreen.svg?style=for-the-badge&logo=fish-shell" alt="fish" />
 
 ```sh
 set -Ux FZF_DEFAULT_OPTS "\
 --color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
 --color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
-````
+```
 
-**PowerShell**:
+<img src="https://img.shields.io/badge/powershell-darkblue.svg?style=for-the-badge&logo=powershell" alt="powershell" />
 
 ```powershell
 $ENV:FZF_DEFAULT_OPTS=@"
@@ -42,6 +45,9 @@ $ENV:FZF_DEFAULT_OPTS=@"
 --color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61
 --color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5
 "@
+```
+
+Save, then restart or reload your config ✨
 
 # Projects 👾
 
@@ -73,4 +79,3 @@ Check out our awesome sponsor!
     <img src="https://avatars.githubusercontent.com/u/6558867" width="64" height="64" />
   </a>
 </div>
-```
