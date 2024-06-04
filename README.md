@@ -17,7 +17,31 @@
 
 # Installation 📦
 
+**Bash/Zsh**:
 
+````sh
+export FZF_DEFAULT_OPTS=" \
+--color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
+--color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
+--color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
+
+**Fish**:
+
+```sh
+set -Ux FZF_DEFAULT_OPTS "\
+--color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5 \
+--color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61 \
+--color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5"
+````
+
+**PowerShell**:
+
+```powershell
+$ENV:FZF_DEFAULT_OPTS=@"
+--color=bg+:#031B26,bg:#06101e,spinner:#fa7a61,hl:#e2d9c5
+--color=fg:#08435E,header:#e2d9c5,info:#35b5ff,pointer:#fa7a61
+--color=marker:#fa7a61,fg+:#66def9,prompt:#35b5ff,hl+:#e2d9c5
+"@
 
 # Projects 👾
 
@@ -49,3 +73,4 @@ Check out our awesome sponsor!
     <img src="https://avatars.githubusercontent.com/u/6558867" width="64" height="64" />
   </a>
 </div>
+```
