@@ -49,7 +49,7 @@ $ENV:FZF_DEFAULT_OPTS=@"
 
 Save, then restart or reload your config ✨
 
-# Projects 👾
+# Projects ⭐
 
 ### `neofusion.nvim`
 
