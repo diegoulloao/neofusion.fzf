@@ -59,6 +59,10 @@ Neovim theme version. [Check it out!](https://github.com/diegoulloao/neofusion.n
 
 iTerm2 theme version. [Check it out!](https://github.com/diegoulloao/neofusion.iterm)
 
+### `neofusion.alacritty`
+
+Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.alacritty)
+
 ### `neofusion.bat`
 
 Bat theme version [Check it out!](https://github.com/diegoulloao/neofusion.bat/)
