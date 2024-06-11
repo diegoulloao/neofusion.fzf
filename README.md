@@ -51,7 +51,7 @@ For a transparent background you can concatenate: `--color=bg:-1` at the end of 
 
 Save, then restart or reload your config ✨
 
-# Projects ⭐
+# Ports ⭐
 
 ### `neofusion.nvim`
 
