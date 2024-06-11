@@ -6,7 +6,7 @@
 </div>
 
 <p align="center"> 
-    <a href="#"><img alt="Made with Lua" src="https://img.shields.io/badge/SHELL-9cf.svg?style=for-the-badge&logo=gnome-terminal&logoColor=black" style="vertical-align:center" /></a>
+    <a href="#"><img alt="Made with Lua" src="https://img.shields.io/badge/SHELL-b9e0bf.svg?style=for-the-badge&logo=gnome-terminal&logoColor=black" style="vertical-align:center" /></a>
 </p>
 
 <p align="center">
@@ -68,6 +68,10 @@ Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusio
 ### `neofusion.kitty`
 
 Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
+### `neofusion.wezterm`
+
+WezTerm theme version. [Check it out!](https://github.com/diegoulloao/neofusion.wezterm)
 
 ### `neofusion.winterm`
 
