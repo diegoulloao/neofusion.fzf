@@ -6,7 +6,7 @@
 </div>
 
 <p align="center"> 
-    <a href="#"><img alt="Made with Lua" src="https://img.shields.io/badge/SHELL-b9e0bf.svg?style=for-the-badge&logo=gnome-terminal&logoColor=black" style="vertical-align:center" /></a>
+    <a href="#"><img alt="Made with Lua" src="https://img.shields.io/badge/SHELL-b9e0bf.svg?style=for-the-badge&logo=gnome-terminal&logoColor=333" style="vertical-align:center" /></a>
 </p>
 
 <p align="center">
