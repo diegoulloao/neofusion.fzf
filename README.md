@@ -47,6 +47,8 @@ $ENV:FZF_DEFAULT_OPTS=@"
 "@
 ```
 
+For a transparent background you can concatenate: `--color=bg:-1` at the end of the string.
+
 Save, then restart or reload your config ✨
 
 # Projects ⭐
@@ -66,6 +68,10 @@ Alacritty theme version. [Check it out!](https://github.com/diegoulloao/neofusio
 ### `neofusion.kitty`
 
 Kitty theme version. [Check it out!](https://github.com/diegoulloao/neofusion.kitty)
+
+### `neofusion.winterm`
+
+Windows Terminal theme version. [Check it out!](https://github.com/diegoulloao/neofusion.winterm)
 
 ### `neofusion.bat`
 
